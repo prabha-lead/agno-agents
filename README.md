@@ -117,4 +117,18 @@ uv run finance-agent.py
    - `web.py` for web‐centric Q\&A
    - `finance-agent.py` for Amazon financial insights (with PDF first, web fallback)
 
+### Finance Agent Output
+
+<img width="896" height="829" alt="finance agent output" src="finance agent output.png" />
+
+_Sample: The Finance Agent provides a detailed breakdown of Amazon's 2023 revenue distribution, citing the PDF knowledge base and supplementing with web data if needed._
+
+---
+
+### Web Agent Output
+
+<img width="896" height="829" alt="web agent output" src="web agent out.png" />
+
+_Sample: The Web Agent answers a general query using the Groq model and, when necessary, retrieves up-to-date information from the web._
+
 Enjoy building with Agno Agents!
