@@ -1,0 +1,24 @@
+[project]
+name = "agno-test-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.7.6",
+    "duckduckgo-search>=8.1.1",
+    "fastapi[standard]>=0.116.1",
+    "fastembed>=0.7.1",
+    "groq>=0.30.0",
+    "lancedb>=0.24.2",
+    "ollama>=0.5.1",
+    "openai>=1.97.1",
+    "pandas>=2.3.1",
+    "pypdf>=5.9.0",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.0.0",
+    "sqlalchemy>=2.0.41",
+    "streamlit>=1.47.1",
+    "tantivy>=0.24.0",
+    "yfinance>=0.2.65",
+]
