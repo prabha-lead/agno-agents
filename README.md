@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Agno Agents** is a UV-powered project containing two specialized agents:
+**Agno Agents** is a UV-powered and Agno Framework project containing two specialized agents:
 
 1. **Web Agent**
 
