@@ -127,7 +127,7 @@ _Sample: The Finance Agent provides a detailed breakdown of Amazon's 2023 revenu
 
 ### Web Agent Output
 
-<img width="896" height="829" alt="web agent output" src="web agent out.png" />
+<img width="896" height="829" alt="web agent output" src="web agent output.png" />
 
 _Sample: The Web Agent answers a general query using the Groq model and, when necessary, retrieves up-to-date information from the web._
 
