@@ -9,7 +9,7 @@ os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
 agent=Agent(
     model=Groq(id="llama-3.1-8b-instant"),
-    description="You are a helpful web assistant. Answer any question using your knowledge and, if needed, information from the web.",
+    description="You are a helpful web assistant. Answer any question using DuckDuckGo search and answer based on the expert from relevant sources",
     tools=[DuckDuckGoTools()],
     markdown=True
 )
